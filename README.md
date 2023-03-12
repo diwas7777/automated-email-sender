@@ -30,5 +30,5 @@ NOTE: *We tested it on **Windows Computer***
 7. Run the code
 ## Authors
 
-- [@diwas7777](https://www.github.com/diwas7777)
+[@diwas7777](https://www.github.com/diwas7777)
 
