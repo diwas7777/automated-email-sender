@@ -32,3 +32,4 @@ NOTE: *We tested it on **Windows Computer***
 
 [@diwas7777](https://www.github.com/diwas7777)
 
+[![Auto commit](https://github.com/diwas7777/automated-email-sender/actions/workflows/autocommit.yml/badge.svg)](https://github.com/diwas7777/automated-email-sender/actions/workflows/autocommit.yml)
